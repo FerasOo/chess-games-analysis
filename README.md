@@ -2,6 +2,12 @@
 
 Statistical analysis of chess games from Lichess platform using R statistical tools. This project examines the relationships between player ratings, game duration, victory patterns, and opening moves through hypothesis testing, regression analysis, and data visualization of over 20,000 online chess games.
 
+## 👥 Contributors
+
+- Firas Elbayoumi
+- Yaser Z. K. Shoshaa
+- Briksam Kasımoğlu
+
 ## 🔍 Overview
 
 This project analyzes chess game data to understand:
@@ -50,12 +56,6 @@ The script will generate several plots in your working directory:
 - Non-parametric tests
 - Comprehensive data visualization
 - Correlation analysis between game variables
-
-## 👥 Contributors
-
-- Firas Elbayoumi
-- Yaser Z. K. Shoshaa
-- Briksam Kasımoğlu
 
 ## 📝 Note
 
